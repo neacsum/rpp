@@ -1,2 +1,2 @@
 # rpp
-Raspberry Pico libearies
+Raspberry Pico libraries
